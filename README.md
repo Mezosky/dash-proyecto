@@ -11,4 +11,4 @@ password: muertes
 
 
 
-Notar que para montar este tipo de servidores se debe definir un archivo `Procfile` donde señalas el tipo de server. 
+**Notar:** que para montar este tipo de servidores se debe definir un archivo `Procfile` donde señalas el tipo de server. 
