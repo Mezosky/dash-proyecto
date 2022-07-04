@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+fiona
+plotly
+dash
+dash-bootstrap-components
+pyarrow 
+dash-auth
+openpyxl
+gunicorn
+scikit-learn
